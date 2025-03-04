@@ -1,0 +1,6 @@
+name: 'Hello Block'
+type: module
+description: 'A  block that displays Hello World'
+package: Custom
+core_version_requirement: ^10 || ^11
+dependencies: []
