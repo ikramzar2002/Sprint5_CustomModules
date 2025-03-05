@@ -17,7 +17,7 @@ Le module **Hello World** est un module personnalisé pour **Drupal 10/11** qui 
 ```bash
 drush en hello_world -y 
 ```
-![Capture d’écran]([https://i.imgur.com/mon-image.png](https://imgur.com/a/4m7Sbmv))
+![Image](https://github.com/user-attachments/assets/64023b3a-0f2d-43df-aff9-3a10b54bb4c2)
 
 # Step 4:
 
