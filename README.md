@@ -42,6 +42,7 @@ Réinstallation : tous les fichiers de configuration sont restaurés automatique
 
 ![Image](https://github.com/user-attachments/assets/c3098e65-aa5c-4cd2-8cc8-4491f15487b5)
 
+![Image](https://github.com/user-attachments/assets/8cdd9760-6d6a-4fb8-90ad-0e4044a834ee)
 ## Résultat :
 
 Drupal affiche un avertissement indiquant que la version du module ne correspond pas à celle du Core.
