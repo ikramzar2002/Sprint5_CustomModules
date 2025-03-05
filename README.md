@@ -36,6 +36,7 @@ drush en hello_world -y
 ## Résultat :
 
 Désinstallation : le module est bien désactivé et supprimé de la base de données.
+
 Réinstallation : tous les fichiers de configuration sont restaurés automatiquement.
 
 ## 2. Changer core_version_requirement à une version inférieure
