@@ -19,6 +19,8 @@ drush en hello_world -y
 ```
 ![Image](https://github.com/user-attachments/assets/64023b3a-0f2d-43df-aff9-3a10b54bb4c2)
 
+![Image](https://github.com/user-attachments/assets/e5edfecb-4c5a-4d9c-80cd-f95339968092)
+
 # Step 4:
 
 ## 1. Désinstaller et réinstaller le module:
