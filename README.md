@@ -31,6 +31,8 @@ drush en hello_world -y
 
 ![Image](https://github.com/user-attachments/assets/a45f0098-c6bf-4950-9872-8c664aff659a)
 
+![Image](https://github.com/user-attachments/assets/8abc4fbc-660d-460b-a5b2-cd88aafa947a)
+
 ## Résultat :
 
 Désinstallation : le module est bien désactivé et supprimé de la base de données.
