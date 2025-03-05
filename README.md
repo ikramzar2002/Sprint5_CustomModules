@@ -59,7 +59,6 @@ Après installation de workflows, hello_world peut être activé sans problème.
 
 ## 4. Ajouter un fichier composer.json
 
-![Image](https://github.com/user-attachments/assets/a1ba4f9a-bf0c-4638-83e0-1bea22e29dd1) 
 
 ## Résultat :
 
@@ -68,6 +67,7 @@ Les dépendances sont bien installées.
 Erreur si workflows ne peut pas être trouvé (problème de version).
 
 ## 5. Supprimer ou déplacer le module
+![Image](https://github.com/user-attachments/assets/a1ba4f9a-bf0c-4638-83e0-1bea22e29dd1) 
 
 ## Résultat :
 
