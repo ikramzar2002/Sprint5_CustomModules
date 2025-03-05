@@ -29,6 +29,8 @@ drush en hello_world -y
 
 ## 1. Désinstaller et réinstaller le module:
 
+![Image](https://github.com/user-attachments/assets/a45f0098-c6bf-4950-9872-8c664aff659a)
+
 ## Résultat :
 
 Désinstallation : le module est bien désactivé et supprimé de la base de données.
