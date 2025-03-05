@@ -50,6 +50,8 @@ Le module ne peut pas être activé si la version de Drupal est trop récente.
 
 ## 3. Ajouter workflows comme dépendance
 
+![Image](https://github.com/user-attachments/assets/6b058f03-b965-4981-bf03-9c98b3e9ba74)
+
 ## Résultat :
 
 Si le module Workflows n'est pas installé, Drupal affiche une erreur de dépendance et empêche l’installation de hello_world.
